@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Notes files to check merge.
 
 This is notes file in merge .
+=======
+Notes files to check merge.s
+>>>>>>> feature
