@@ -1,1 +1,3 @@
 Notes files to check merge.
+
+This is notes file in merge .
